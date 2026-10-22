@@ -21,6 +21,9 @@ Vercel          App + API  (Hosting)
 | Code | [github.com/FLHGmbH/flh-buchung](https://github.com/FLHGmbH/flh-buchung) |
 | Hosting | [Vercel, Projekt `flh-kalender`](https://vercel.com/flh-kalender-tool/flh-kalender) im Team **flh-kalender-tool** |
 | Datenbank und Login | [Supabase, Projekt **FLH Kalender Tool**](https://supabase.com/dashboard/project/vnjmreerwhcfdlocycdh) |
+| Capture/Altcha | ([https://supabase.com/dashboard/project/vnjmreerwhcfdlocycdh](https://login.mittwald.de/reseller/r31803/projects/p715675/domain/domains/overview)) |
+
+
 | Oberfläche | `client/` — React, Vite |
 | API | `server/` — Hono, auf Vercel unter `api/` |
 | Buchungsfenster | `/b/{slug}` (iframe auf der Kundenwebsite) |
